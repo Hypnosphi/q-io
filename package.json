@@ -1,5 +1,8 @@
 {
-  "name": "q-io",
+  "name": "@hypnosphi/q-io",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.13.6",
   "description": "IO using Q promises",
   "homepage": "http://github.com/kriskowal/q-io/",
